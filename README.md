@@ -24,6 +24,16 @@ used for post markdown.
 *   url: your domain
 
 
+## Format
+
+Just markdown, but you should care about the code area.
+see the **example.md**
+
+*   File name of markdown file will be the post's title
+*   Markdown file must contains **Tags:** line at the top of file
+*   Post date is in [paper](https://github.com/yueyoum/paper) settings
+
+
 ## TODO
 
 *   integrate with github, when post to blog,
